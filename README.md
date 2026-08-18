@@ -761,23 +761,6 @@ startup.
 </details>
 
 <details>
-  <summary><b>Opencode Skills</b> <img src="https://badgen.net/github/stars/malhashemi/opencode-skills" height="14"/> - <i>Manage skills and capabilities</i></summary>
-  <blockquote>
-    Plugin for managing and organising opencode skills and capabilities.
-    <br><br>
-    <a href="https://github.com/malhashemi/opencode-skills">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>RoleCraft</b> <img src="https://badgen.net/github/stars/sametcelikbicak/rolecraft" height="14"/> - <i>Zero-dependency CLI to install AI agent skills from any source</i></summary>
-  <blockquote>
-    Install skills as roles & behaviors from local folders or GitHub repos. Works with opencode, claude-code, cursor, and all spec-compliant agents.
-    <br><br>
-    <a href="https://github.com/sametcelikbicak/rolecraft">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
   <summary><b>Opencode Snippets</b> <img src="https://badgen.net/github/stars/JosXa/opencode-snippets" height="14"/> - <i>Instant inline text expansion</i></summary>
   <blockquote>
     Instant inline text expansion for OpenCode. Type #snippet anywhere in your message and watch it transform. Brings DRY principles to prompt engineering with composable, shell-enabled snippets.
@@ -1425,15 +1408,6 @@ Also available for bat and Ghostty in the same repository.
 <br>
 
 <details>
-  <summary><b>Coverage Guard</b> <img src="https://badgen.net/github/stars/sametcelikbicak/coverage-guard" height="14"/> - <i>Enforces 100% test coverage</i></summary>
-  <blockquote>
-    An AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and other test runners. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
-    <br><br>
-    <a href="https://github.com/sametcelikbicak/coverage-guard">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
   <summary><b>Agentic</b> <img src="https://badgen.net/github/stars/Cluster444/agentic" height="14"/> - <i>Modular AI agents</i></summary>
   <blockquote>
     Modular AI agents and commands for structured software development with opencode.
@@ -1457,15 +1431,6 @@ Also available for bat and Ghostty in the same repository.
     Get a delegated second opinion or an actual fix from GPT (Codex), Gemini, Grok (xAI), or OpenRouter. Seven expert subagents - Architect, Plan Reviewer, Scope Analyst, Code Reviewer, Security Analyst, Researcher, and Debugger - plus the ask-gpt, ask-gemini, ask-grok, ask-openrouter, ask-all, and consensus commands. Each one can advise (read-only) or implement. ask-all asks every model at once and compares the answers; consensus runs an arbiter loop until the models agree.
     <br><br>
     <a href="https://github.com/antonbabenko/deliberation">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Flaky Test Detector</b> <img src="https://badgen.net/github/stars/sametcelikbicak/flaky-test-detector" height="14"/> - <i>Detect and fix flaky tests</i></summary>
-  <blockquote>
-    An AI agent skill that identifies non-deterministic test failures, categorizes root causes, and applies targeted fixes. Works with Vitest, Jest, Playwright, Cypress, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
-    <br><br>
-    <a href="https://github.com/sametcelikbicak/flaky-test-detector">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -1502,15 +1467,6 @@ Also available for bat and Ghostty in the same repository.
     A custom configurable agent toolkit includes 1 Primary Custom Agent python-expert with intelligent skill loading, Predefined Specialized Subagents for Code generation, review, testing, and exploration, On-Demand Skills for Python development projects, Context Files for Standards, patterns, and security guidelines.
     <br><br>
     <a href="https://github.com/amrahman90/python-expert-agent">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Task Decomposer</b> <img src="https://badgen.net/github/stars/sametcelikbicak/task-decomposer" height="14"/> - <i>Decompose complex requests</i></summary>
-  <blockquote>
-    An AI agent skill that helps developers decompose complex requests into structured, AI-friendly task sequences. Optimizes context window usage, manages multi-session workflows, and produces better results from fewer, more focused prompts. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
-    <br><br>
-    <a href="https://github.com/sametcelikbicak/task-decomposer">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
