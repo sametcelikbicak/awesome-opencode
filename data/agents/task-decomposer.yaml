@@ -1,1 +1,4 @@
-name: Task Decomposerrepo: https://github.com/rolecraft-sh/skillstagline: Decompose complex requestsdescription: An AI agent skill that helps developers decompose complex requests into structured, AI-friendly task sequences. Optimizes context window usage, manages multi-session workflows, and produces better results from fewer, more focused prompts. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. Hosted in the rolecraft-sh/skills collection.
+name: Task Decomposer
+repo: https://github.com/rolecraft-sh/skills
+tagline: Decompose complex requests
+description: An AI agent skill that helps developers decompose complex requests into structured, AI-friendly task sequences. Optimizes context window usage, manages multi-session workflows, and produces better results from fewer, more focused prompts. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. Hosted in the rolecraft-sh/skills collection.
